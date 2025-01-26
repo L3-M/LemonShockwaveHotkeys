@@ -1,0 +1,15 @@
+ModificationType: Addon
+Name: Lemon Shockwave Hotkeys
+Version: 1.0.5
+SimpleDownloadLink: https://www.dropbox.com/scl/fi/f3lvdyjeaxvpt38u24wzb/Lemon-Shockwave-Hotkeys-v1.0.5.zip?rlkey=nj0d7xk7wrw2m44d96bjovtuv&st=45fqtlu5&dl=1
+UIImageSourceLink: ''
+DiscordLink: ''
+ModDBLink: 'https://www.moddb.com/mods/cc-shockwave/addons/cc-shockwave-hotkeys'
+NewsLink: https://www.moddb.com/mods/cc-shockwave/addons/cc-shockwave-hotkeys
+DependenceName: C&C Shockwave
+S3HostLink: gen.insave.ovh:9000
+S3BucketName: ''
+S3FolderName: ''
+S3HostPublicKey: ''
+S3HostSecretKey: ''
+NetworkInfo: ''
